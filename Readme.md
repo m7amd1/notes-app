@@ -2,8 +2,6 @@
 
 A modern, feature-rich note-taking application built with Next.js, React, and TypeScript. Create, edit, organize, and export your notes with a beautiful, responsive interface.
 
-![Notes App Screenshot](https://via.placeholder.com/800x400/f3f4f6/374151?text=Notes+App+Interface)
-
 ## ✨ Features
 
 ### 📄 **Note Management**
